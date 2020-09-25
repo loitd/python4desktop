@@ -1,0 +1,440 @@
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:01:26]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:01:26]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:01:26]: Error during connect to URL: HTTPSConnectionPool(host='file-examples-com.github.io', port=443): Max retries exceeded with url: /uploads/2017/11/file_example_MP3_1MG.mp3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000241DB0A2288>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:01:26]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:01:26]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:01:26]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:01:26]: Error during connect to URL: HTTPSConnectionPool(host='file-examples-com.github.io', port=443): Max retries exceeded with url: /uploads/2017/11/file_example_MP3_1MG.mp3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000241DB0A25C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:01:26]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:01:26]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:01:26]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:01:26]: Error during connect to URL: HTTPSConnectionPool(host='file-examples-com.github.io', port=443): Max retries exceeded with url: /uploads/2017/11/file_example_MP3_1MG.mp3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000241DB0A2A08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:01:26]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:12:47]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Download size: b'1087849' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Got filesize = 1087849
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 0/1087849 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 294912/1087849 - Percentage: 27.11% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 720896/1087849 - Percentage: 66.27% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:12:47]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Download size: b'1087849' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Got filesize = 1087849
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 0/1087849 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 311296/1087849 - Percentage: 28.62% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 458752/1087849 - Percentage: 42.17% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 720896/1087849 - Percentage: 66.27% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 950272/1087849 - Percentage: 87.35% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:12:47]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Download size: b'1087849' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Got filesize = 1087849
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 0/1087849 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 425984/1087849 - Percentage: 39.16% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 901120/1087849 - Percentage: 82.84% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:12:47]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Download size: b'1087849' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Got filesize = 1087849
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 0/1087849 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 229376/1087849 - Percentage: 21.09% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 589824/1087849 - Percentage: 54.22% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:12:47]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:12:47]: Download size: b'1087849' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Got filesize = 1087849
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 0/1087849 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: 720896/1087849 - Percentage: 66.27% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:12:47]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:16:02]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:16:02]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:16:02]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 311296/764176 - Percentage: 40.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 704512/764176 - Percentage: 92.19% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:16:02]: Finalizing
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:16:02]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:16:02]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:16:02]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 196608/764176 - Percentage: 25.73% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 409600/764176 - Percentage: 53.60% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: 753664/764176 - Percentage: 98.62% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:16:02]: Finalizing
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:16:02]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:17:46]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:17:46]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:17:46]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:17:46]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:17:46]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:17:46]: 360448/764176 - Percentage: 47.17% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:17:46]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:17:46]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:18:17]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:18:17]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:18:17]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:18:17]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:18:17]: 196608/764176 - Percentage: 25.73% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:18:17]: 507904/764176 - Percentage: 66.46% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:18:17]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:18:17]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue size: 1
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:18:17]: Queue is FULL
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:19:56]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:19:56]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:19:56]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 49152/764176 - Percentage: 6.43% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 131072/764176 - Percentage: 17.15% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 245760/764176 - Percentage: 32.16% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 344064/764176 - Percentage: 45.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 491520/764176 - Percentage: 64.32% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 589824/764176 - Percentage: 77.18% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:19:56]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:19:56]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:19:56]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:19:56]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 311296/764176 - Percentage: 40.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: 688128/764176 - Percentage: 90.05% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:19:56]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:19:56]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:34:40]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:34:40]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:34:40]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:34:40]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:34:40]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:34:40]: 262144/764176 - Percentage: 34.30% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:34:40]: 655360/764176 - Percentage: 85.76% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:34:40]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:34:40]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:36:08]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:36:08]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:36:08]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 32768/764176 - Percentage: 4.29% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 98304/764176 - Percentage: 12.86% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 212992/764176 - Percentage: 27.87% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 344064/764176 - Percentage: 45.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 393216/764176 - Percentage: 51.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 491520/764176 - Percentage: 64.32% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 573440/764176 - Percentage: 75.04% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 638976/764176 - Percentage: 83.62% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 704512/764176 - Percentage: 92.19% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:36:08]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 15:36:08]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:36:08]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:36:08]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 196608/764176 - Percentage: 25.73% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 425984/764176 - Percentage: 55.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: 606208/764176 - Percentage: 79.33% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 15:36:08]: Finalizing with qsize: 1
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 15:36:08]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:10:03]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 21:10:03]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 21:10:03]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:22:20]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 21:22:20]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 21:22:20]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:23:27]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 21:23:27]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 21:23:27]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:24:04]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 21:24:04]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 21:24:04]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:25:05]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 21:25:05]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 21:25:05]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:25:05]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:25:05]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:25:05]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 21:25:05]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 21:25:05]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:25:05]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 21:25:05]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:45:38]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:45:38]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:45:38]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:45:38]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:45:38]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:46:21]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:46:21]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:46:21]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:46:21]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:46:21]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:46:21]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:46:21]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:46:21]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:46:21]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:46:21]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:49:21]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:49:21]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:49:21]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:49:21]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:49:21]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:49:21]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:49:21]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:56:06]: Queue size: 0
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:56:06]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:56:06]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:56:06]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:56:06]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:56:06]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:56:06]: Start download: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:56:06]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:56:06]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:56:06]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:56:06]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Start download: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Invalid URL: Invalid URL '1': No schema supplied. Perhaps you meant http://1?
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:57:35]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Start download: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Invalid URL: Invalid URL '1': No schema supplied. Perhaps you meant http://1?
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:57:35]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Start download: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Invalid URL: Invalid URL '1': No schema supplied. Perhaps you meant http://1?
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:57:35]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:57:35]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:57:35]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:59:42]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:59:42]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:59:42]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 65536/764176 - Percentage: 8.58% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 163840/764176 - Percentage: 21.44% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 212992/764176 - Percentage: 27.87% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 245760/764176 - Percentage: 32.16% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 278528/764176 - Percentage: 36.45% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 294912/764176 - Percentage: 38.59% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 311296/764176 - Percentage: 40.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 344064/764176 - Percentage: 45.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 393216/764176 - Percentage: 51.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 458752/764176 - Percentage: 60.03% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 475136/764176 - Percentage: 62.18% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 540672/764176 - Percentage: 70.75% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 573440/764176 - Percentage: 75.04% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 573440/764176 - Percentage: 75.04% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 589824/764176 - Percentage: 77.18% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 606208/764176 - Percentage: 79.33% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 622592/764176 - Percentage: 81.47% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 655360/764176 - Percentage: 85.76% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 720896/764176 - Percentage: 94.34% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: 753664/764176 - Percentage: 98.62% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 22:59:42]: Finalizing with qsize: 0
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 22:59:42]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:59:42]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 22:59:42]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:00:58]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:00:58]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:00:58]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:00:58]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:00:58]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 65536/764176 - Percentage: 8.58% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 98304/764176 - Percentage: 12.86% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 147456/764176 - Percentage: 19.30% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 180224/764176 - Percentage: 23.58% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 229376/764176 - Percentage: 30.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 245760/764176 - Percentage: 32.16% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 278528/764176 - Percentage: 36.45% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 327680/764176 - Percentage: 42.88% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 344064/764176 - Percentage: 45.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 376832/764176 - Percentage: 49.31% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 393216/764176 - Percentage: 51.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 425984/764176 - Percentage: 55.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 491520/764176 - Percentage: 64.32% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 622592/764176 - Percentage: 81.47% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: 737280/764176 - Percentage: 96.48% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:00:58]: Finalizing with qsize: 0
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:00:58]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:03:01]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:03:01]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:03:01]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:03:01]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 180224/764176 - Percentage: 23.58% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 229376/764176 - Percentage: 30.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 344064/764176 - Percentage: 45.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 458752/764176 - Percentage: 60.03% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 606208/764176 - Percentage: 79.33% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: 720896/764176 - Percentage: 94.34% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:03:01]: Finalizing with qsize: 0
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:03:01]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:04:03]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:04:03]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:04:03]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:04:03]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:04:03]: 0/764176 - Percentage: 0.00% complete [DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:04:03]: Current BTN state is: normal
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:04:03]: 212992/764176 - Percentage: 27.87% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:04:03]: 573440/764176 - Percentage: 75.04% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:04:03]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:04:03]: Current BTN state is: disabled
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:04:03]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:09:28]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:09:28]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:09:28]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:09:28]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:09:28]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:09:28]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:09:28]: 409600/764176 - Percentage: 53.60% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:09:28]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:09:28]: Current BTN state is: disabled
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:09:28]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:10:18]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:10:18]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:10:18]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:10:18]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:18]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:18]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:18]: 229376/764176 - Percentage: 30.02% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:10:18]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:10:18]: Current BTN state is: disabled
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:18]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:10:50]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:10:50]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:10:50]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:10:50]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:50]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:50]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:50]: 262144/764176 - Percentage: 34.30% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:50]: 606208/764176 - Percentage: 79.33% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:10:50]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:10:50]: Current BTN state is: disabled
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:10:50]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:41:43]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:41:43]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:41:43]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:41:43]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 81920/764176 - Percentage: 10.72% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 196608/764176 - Percentage: 25.73% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 294912/764176 - Percentage: 38.59% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 344064/764176 - Percentage: 45.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 360448/764176 - Percentage: 47.17% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 376832/764176 - Percentage: 49.31% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 393216/764176 - Percentage: 51.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 393216/764176 - Percentage: 51.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 393216/764176 - Percentage: 51.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 409600/764176 - Percentage: 53.60% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 425984/764176 - Percentage: 55.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 442368/764176 - Percentage: 57.89% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 458752/764176 - Percentage: 60.03% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 491520/764176 - Percentage: 64.32% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 524288/764176 - Percentage: 68.61% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 573440/764176 - Percentage: 75.04% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 638976/764176 - Percentage: 83.62% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:41:43]: 704512/764176 - Percentage: 92.19% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:41:43]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:41:43]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:42:51]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:42:51]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:42:51]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:42:51]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:42:51]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:42:51]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:42:51]: 98304/764176 - Percentage: 12.86% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:42:51]: 327680/764176 - Percentage: 42.88% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:42:51]: 507904/764176 - Percentage: 66.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/20 23:42:51]: 704512/764176 - Percentage: 92.19% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/20 23:42:51]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/20 23:42:51]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/21 00:15:13]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/21 00:15:13]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/21 00:15:13]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/21 00:15:13]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 98304/764176 - Percentage: 12.86% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 229376/764176 - Percentage: 30.02% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 327680/764176 - Percentage: 42.88% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 376832/764176 - Percentage: 49.31% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 425984/764176 - Percentage: 55.74% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 507904/764176 - Percentage: 66.46% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 557056/764176 - Percentage: 72.90% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 606208/764176 - Percentage: 79.33% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 655360/764176 - Percentage: 85.76% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: 720896/764176 - Percentage: 94.34% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/21 00:15:13]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/21 00:15:13]: Current BTN state is: disabled
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/21 00:15:13]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:47:36]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:47:36]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:47:36]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:47:36]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:47:36]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/25 09:47:36]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:47:36]: Current BTN state is: disabled
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:47:36]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:47:36]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:47:36]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:47:36]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/25 09:47:36]: Got filesize = 764176
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/25 09:47:36]: 0/764176 - Percentage: 0.00% complete .
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/25 09:47:36]: 507904/764176 - Percentage: 66.46% complete [DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:47:36]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:47:36]: Current BTN state is: disabled
+.
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/25 09:47:36]: Download finished
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:50:05]: Queue size: 1
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:50:05]: Start download: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:50:05]: Current BTN state is: normal
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:50:05]: Download size: b'764176' kilobytes
+[DESKTOP-F3V2DF4][DOWNLOAD  ][2020/09/25 09:50:05]: Finalizing with qsize: 0
+[DESKTOP-F3V2DF4][STATUS    ][2020/09/25 09:50:05]: File not found
+[DESKTOP-F3V2DF4][GUI       ][2020/09/25 09:50:05]: Current BTN state is: disabled
