@@ -1,0 +1,14 @@
+<FileChooserPopup>:
+    id: fcpopup
+    orientation: 'vertical'
+    title: 'P4D File Chooser'
+    BoxLayout:
+        FileChooserListView:
+            id: fc
+            on_selection: app.on_newfileopen(*args)
+
+<FileChooserWidget>:
+    id: fcwidget
+
+<MusicPlayer>:
+    

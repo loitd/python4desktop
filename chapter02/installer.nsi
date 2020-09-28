@@ -1,7 +1,6 @@
 ;NSIS Modern User Interface
-;Start Menu Folder Selection Example Script
-;Written by Joost Verburg
-
+;Modified by Tran Duc Loi based on NSIS Modern User Interface Written by Joost Verburg
+;Python For Desktop Chapter 02 Book
 ;--------------------------------
 ;Include Modern UI
 
