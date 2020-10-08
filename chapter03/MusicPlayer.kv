@@ -1,11 +1,11 @@
 <FileChooserPopup>:
-    id: fcpopup
+    id: fcpu
     orientation: 'vertical'
     title: 'P4D File Chooser'
-    BoxLayout:
-        FileChooserListView:
-            id: fc
-            on_selection: app.on_newfileopen(*args)
+    FileChooserListView:
+        id: fclv
+        filters: ['*.mp3', '*.wav']
+        on_selection: app.on_newfileopen(*args)
 
 <FileChooserWidget>:
     id: fcwidget

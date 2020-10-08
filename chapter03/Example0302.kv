@@ -1,11 +1,19 @@
-<Label>:
-    text: '[color=ff3333]Hello[/color] from Kivy with Python for Desktop by [b]Loitd[/b]'
-    size_hint: (1, .5)
-    pos_hint: {'center_x': .5, 'center_y': .5}
-    markup: True
+<RBoxWidget>:
+    BoxLayout:
+        spacing: 10
+        orientation: 'vertical'
+        Label:
+            text: '[color=ff3333]WELCOME[/color] by [b]Loitd[/b]'
+            markup: True
+        Button:
+            text: 'Press me'
+            on_press: app.on_press_button()
 
-<Button>:
-    text: 'Press me'
-    size_hint: (1, .5)
-    pos_hint: {'center_x': .5, 'center_y': .5}
-    on_press: app.on_press_button()
+<GUI0302>:
+    GridLayout:
+        id: container
+        cols: 2
+        RBoxWidget:
+        RBoxWidget:
+        RBoxWidget:
+        RBoxWidget:

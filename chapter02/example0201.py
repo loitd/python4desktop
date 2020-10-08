@@ -3,7 +3,7 @@
 ###
 # Project Name: python4desktop - Created Date: Thursday September 17th 2020
 # Author: loitd - Email: loitranduc@gmail.com
-# Description: This is a short project/file description
+# Description: example0201.py
 # Copyright (c) 2020 loitd. WWW: https://github.com/loitd
 # -----
 # Last Modified: Thursday September 17th 2020 9:29:07 am By: loitd
