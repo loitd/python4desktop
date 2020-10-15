@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-###
-# Project Name: chapter03 - Created Date: Saturday September 26th 2020
-# Author: loitd - Email: loitranduc@gmail.com
-# Description: This is a short project/file description
-# Copyright (c) 2020 loitd. WWW: https://github.com/loitd
-# -----
-# Last Modified: Saturday September 26th 2020 8:14:14 am By: loitd
-# -----
+# -------------------------------------
+# File: chapter03\example0301.py
+# Description: This is a short description
+# Author: loitd - WWW: https://github.com/loitd
+# ----------
 # HISTORY:
 # Date      	By    	Comments
-# ----------	------	----------------------------------------------------------
+# ----------	------	---------------
 # 2020-09-26	loitd	Initialized
-###
+# -------------------------------------
 
 from kivy.app import App
 from kivy.uix.label import Label

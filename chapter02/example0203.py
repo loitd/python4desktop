@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-###
-# Project Name: python4desktop - Created Date: Thursday September 17th 2020
-# Author: loitd - Email: loitranduc@gmail.com
-# Description: A downloader without GUI
-# Copyright (c) 2020 loitd. WWW: https://github.com/loitd
-# -----
-# Last Modified: Thursday September 17th 2020 10:14:57 pm By: loitd
-# -----
+# -------------------------------------
+# File: chapter02\example0203.py
+# Description: This is a short description
+# Author: loitd - WWW: https://github.com/loitd
+# ----------
 # HISTORY:
 # Date      	By    	Comments
-# ----------	------	----------------------------------------------------------
-# 2020-09-17	loitd	Initialized
-###
+# ----------	------	---------------
+# 2020-09-18	loitd	Initialized
+# -------------------------------------
+
 import os, time
 from lutils import utils
 from tkinter import Tk, messagebox, TOP, BOTTOM, RIGHT, LEFT, YES, NO, X, Y, filedialog, ttk, Frame, Label, Entry, Button, HORIZONTAL, PhotoImage
@@ -34,7 +32,7 @@ def maingui():
     ent = Entry(row, width=88)
     ent.pack(side=RIGHT, expand=YES, fill=X)
     ent.insert(0, testurl)
-    # save file name
+    # save file name button
     row = Frame(root)
     row.pack(side=TOP, fill=X, padx=5, pady=5)
     lbl2 = Label(row, width=10, text="Save as:")

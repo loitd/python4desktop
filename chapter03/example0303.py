@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-###
-# Project Name: chapter03 - Created Date: Monday September 28th 2020
-# Author: loitd - Email: loitranduc@gmail.com
-# Description: This is a music player by Python
-# Copyright (c) 2020 loitd. WWW: https://github.com/loitd
-# -----
-# Last Modified: Monday September 28th 2020 1:03:49 am By: loitd
-# -----
+# -------------------------------------
+# File: chapter03\example0303.py
+# Description: This is a short description
+# Author: loitd - WWW: https://github.com/loitd
+# ----------
 # HISTORY:
 # Date      	By    	Comments
-# ----------	------	----------------------------------------------------------
+# ----------	------	---------------
 # 2020-09-28	loitd	Initialized
-###
+# -------------------------------------
 
 import os, time
 # os.environ['KIVY_AUDIO'] = 'sdl2' # Please remind that seek() and get_pos() are not implement in sdl2 audio
@@ -191,3 +188,5 @@ if __name__ == '__main__':
     init()
     app = MusicPlayerApp()
     app.run()
+
+

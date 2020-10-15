@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-###
-# Project Name: python4desktop - Created Date: Thursday September 17th 2020
-# Author: loitd - Email: loitranduc@gmail.com
-# Description: example0201.py
-# Copyright (c) 2020 loitd. WWW: https://github.com/loitd
-# -----
-# Last Modified: Thursday September 17th 2020 9:29:07 am By: loitd
-# -----
+# -------------------------------------
+# File: chapter02\example0201.py
+# Description: This is a short description
+# Author: loitd - WWW: https://github.com/loitd
+# ----------
 # HISTORY:
 # Date      	By    	Comments
-# ----------	------	----------------------------------------------------------
+# ----------	------	---------------
 # 2020-09-17	loitd	Initialized
-###
+# -------------------------------------
 
 from tkinter import *
 

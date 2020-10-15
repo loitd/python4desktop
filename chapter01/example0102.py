@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
-###
-# Project Name: python4desktop - Created Date: Wednesday September 16th 2020
-# Author: loitd - Email: loitranduc@gmail.com
-# Description: This is a short project/file description
-# Copyright (c) 2020 loitd. WWW: https://github.com/loitd
-# -----
-# Last Modified: Wednesday September 16th 2020 4:07:58 pm By: loitd
-# -----
+# -------------------------------------
+# File: chapter01\example0102.py
+# Description: This is a short description
+# Author: loitd - WWW: https://github.com/loitd
+# ----------
 # HISTORY:
 # Date      	By    	Comments
-# ----------	------	----------------------------------------------------------
+# ----------	------	---------------
 # 2020-09-16	loitd	Initialized
-###
+# -------------------------------------
 
 class Person(object):
     '''Person class in Python'''

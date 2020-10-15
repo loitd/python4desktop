@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# PYTHON FOR DESKTOP
+_How to How to develop, pack and deliver Python applications with TkInter and Kivy_
 
-You can use the [editor on GitHub](https://github.com/loitd/python4desktop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the official repository of the book [PYTHON FOR DESKTOP](https://www.amazon.com/dp/B08KYF5LZT).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Help/How to use
+- Clone this repository:  
+`git clone https://github.com/loitd/python4desktop`
+- Switch to new created folder:  
+`cd python4desktop`  
+- Change dir to your desire chapter:  
+`cd chapter01`  
+- Create/Activate chapter's virtual environment:  
+`python -m venv venv`  
+    - On Windows: `venv\Script\activate`  
+    - On Linux/MacOS: `source venv/bin/activate`  
+- Install dependencies:  
+`pip install -r requirements.txt`  
+- Run your desired example(s):  
+`python example0101.py`
 
-### Markdown
+## Support or Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loitd/python4desktop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the book? Do the following advice step-by-step:   
+- Check out our [documentation](https://github.com/loitd/python4desktop/) (this page)  
+- Read the book carefully again. Make sure you didn't skip any step. All the examples in the book tested multiple times by me.  
+- Create issue on [this repository]((https://github.com/loitd/python4desktop/))
+- [contact me](loitranduc@gmail.com) and I’ll try to help you sort it out.
