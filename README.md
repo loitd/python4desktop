@@ -21,7 +21,7 @@ Buy it on [Amazon](https://www.amazon.com/dp/B08KYF5LZT) - [Google Play](https:/
 `python example0101.py`
 
 ## Table of Content
-You can view/download the table of content of the book [here](https://github.com/loitd/python4desktop/blob/master/PYTHON%20FOR%20DESKTOP%20APPLICATIONS%20-%20TRAN%20DUC%20LOI%20-%20ToC.pdf)
+You can view/download the table of content of the book [here](https://github.com/loitd/python4desktop/blob/master/PYTHON-FOR-DESKTOP-APPLICATIONS-TRAN-DUC-LOI-ToC.pdf)
 
 
 ## Support or Contact
