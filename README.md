@@ -4,6 +4,9 @@ _How to How to develop, pack and deliver Python applications with TkInter and Ki
 This is the official repository of the book [PYTHON FOR DESKTOP APPLICATIONS](https://www.amazon.com/dp/B08KYF5LZT).  
 Buy it on [Amazon](https://www.amazon.com/dp/B08KYF5LZT) - [Google Play](https://play.google.com/store/books/details?id=79wBEAAAQBAJ) - [Gumroad](https://gum.co/tAwbg)
 
+## Table of Content
+You can view/download the table of content of the book [here](https://github.com/loitd/python4desktop/blob/master/PYTHON-FOR-DESKTOP-APPLICATIONS-TRAN-DUC-LOI-ToC.pdf)
+
 ## Help/How to use
 - Clone this repository:  
 `git clone https://github.com/loitd/python4desktop`
@@ -19,10 +22,6 @@ Buy it on [Amazon](https://www.amazon.com/dp/B08KYF5LZT) - [Google Play](https:/
 `pip install -r requirements.txt`  
 - Run your desired example(s):  
 `python example0101.py`
-
-## Table of Content
-You can view/download the table of content of the book [here](https://github.com/loitd/python4desktop/blob/master/PYTHON-FOR-DESKTOP-APPLICATIONS-TRAN-DUC-LOI-ToC.pdf)
-
 
 ## Support or Contact
 
