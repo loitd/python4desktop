@@ -1,7 +1,8 @@
 # PYTHON FOR DESKTOP
 _How to How to develop, pack and deliver Python applications with TkInter and Kivy_
 
-This is the official repository of the book [PYTHON FOR DESKTOP](https://www.amazon.com/dp/B08KYF5LZT).
+This is the official repository of the book [PYTHON FOR DESKTOP APPLICATIONS](https://www.amazon.com/dp/B08KYF5LZT).  
+Buy it on [Amazon](https://www.amazon.com/dp/B08KYF5LZT) - [Google Play](https://play.google.com/store/books/details?id=79wBEAAAQBAJ) - [Gumroad](https://gum.co/tAwbg)
 
 ## Help/How to use
 - Clone this repository:  
@@ -18,6 +19,10 @@ This is the official repository of the book [PYTHON FOR DESKTOP](https://www.ama
 `pip install -r requirements.txt`  
 - Run your desired example(s):  
 `python example0101.py`
+
+## Table of Content
+You can view/download the table of content of the book [here](https://raw.githubusercontent.com/loitd/python4desktop/master/PYTHON FOR DESKTOP APPLICATIONS - TRAN DUC LOI - ToC.pdf)
+
 
 ## Support or Contact
 
