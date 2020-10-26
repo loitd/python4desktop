@@ -1,4 +1,4 @@
-# PYTHON FOR DESKTOP
+# PYTHON FOR DESKTOP APPLICATIONS
 _How to How to develop, pack and deliver Python applications with TkInter and Kivy_
 
 This is the official repository of the book [PYTHON FOR DESKTOP APPLICATIONS](https://www.amazon.com/dp/B08KYF5LZT).  
