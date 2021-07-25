@@ -2,7 +2,7 @@
 _How to How to develop, pack and deliver Python applications with TkInter and Kivy_
 
 This is the official repository of the book [PYTHON FOR DESKTOP APPLICATIONS](https://www.amazon.com/dp/B08KYF5LZT).  
-Buy it on [Amazon](https://www.amazon.com/dp/B08KYF5LZT) - [Google Play](https://play.google.com/store/books/details?id=79wBEAAAQBAJ) - [Gumroad](https://gum.co/tAwbg)
+Buy it on [Amazon](https://www.amazon.com/dp/B08KYF5LZT)
 
 ## Table of Content
 You can view/download the table of content of the book [here](https://github.com/loitd/python4desktop/blob/master/PYTHON-FOR-DESKTOP-APPLICATIONS-TRAN-DUC-LOI-ToC.pdf)
